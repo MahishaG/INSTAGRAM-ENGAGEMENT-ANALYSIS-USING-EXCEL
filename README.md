@@ -55,7 +55,7 @@ The dataset comprises of business insights of Instagram account which includes t
 
 
 
-📍## INFERENCE
+## INFERENCE
 
 The consolidated inference obtained after EDA are,
 
