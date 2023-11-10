@@ -1,6 +1,8 @@
 # INSTAGRAM-ENGAGEMENT-ANALYSIS-USING-EXCEL
 DATA ANALYSIS USING EXCEL
 
+NOTION LINK : https://windy-geese-6b2.notion.site/Data-Analysis-Using-Excel-fc11be26c34f44849d795ac2d1ecbc32?pvs=4
+
 ## OBJECTIVE
 
 The purpose of this data analysis is to develop a data-driven Instagram engagement analysis dashboard to gain insights into the performance of different post types on Data Analyst Duo's Instagram account (dataanalystduo) with approximately 106k followers.
