@@ -53,7 +53,8 @@ The dataset comprises of business insights of Instagram account which includes t
 
 📌 *Dataset has been downloaded from the internet using multiple sources. All the credit for the dataset goes to the original content creator of the Instagram handle (dataanalystduo).*
 
-## KEY LEARNINGS
+## DASHBOARD
+![image](https://github.com/MahishaG/INSTAGRAM-ENGAGEMENT-ANALYSIS-USING-EXCEL/assets/64159611/77ad6de5-58e1-4bf8-a9f0-66d355d859fa)
 
 
 
